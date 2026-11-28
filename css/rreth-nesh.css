@@ -290,8 +290,10 @@ footer {
     padding-bottom: 40px;
   }
 }
-
-/* Fotot te pjesa Pse Nisja Agency */
+h1{
+  font-style: normal;
+  color: black;
+}
 .item img {
   width: 100%;
   height: 170px;
